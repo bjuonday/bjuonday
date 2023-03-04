@@ -1,4 +1,4 @@
-<h1><i>     ____________</i><br><i>__/ about me \__</i></h1>
+<h1><i>      ___________</i><br><i>__/ about me \__</i></h1>
 
 <b>Birthday:</b> May 11 2009; 13<br>
 <b>Timezone:</b> GMT+2<br>
