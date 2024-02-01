@@ -1,7 +1,6 @@
-<h3><i>      ___________</i><br><i>__/ about me \__</i></h3>
+<p align="center" width="100%">
+    <img width="45%" src="https://github.com/bjuonday/bjuonday/assets/113231787/8cb2f705-8183-4602-a8db-70cd1f500111"><br>
+    <img src="https://github.com/bjuonday/bjuonday/assets/113231787/6577c4c2-862a-479c-afa3-8b441fce1eaa">
 
-<b>Birthday:</b> May 11 2009; 14<br>
-<b>Timezone:</b> GMT+2<br>
-<b>Coding:</b> HTML & CSS, retexturing Flash games<br>
-<b>Learning:</b> nothing, looking forward<br>
-<b>Languages:</b> Russian, English<br><br>
+<br>
+</p>
