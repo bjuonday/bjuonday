@@ -6,5 +6,5 @@
     <b>Coding</b>: HTML & CSS, I despise backend elements sometimes<br>
     <b>Learning</b>: JavaScript<br>
     <b>Languages</b>: Russian, English<br>
-    <b>Wishing to</b>: be an graphic designer
+    <b>Wishing to</b>: ...what?
 </p>
