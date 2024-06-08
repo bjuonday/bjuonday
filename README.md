@@ -10,7 +10,7 @@
 </p>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: red;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; align-items: center; justify-content: center; display: flex; height: 100vh; object-fit: none; background-size: contain; width: 130vw; opacity: 0.5; background: url('https://github.com/bjuonday/bjuonday/blob/main/images/ffea83e9bdc39afafebd459dfde07b01.gif?raw=true') top center no-repeat black;]{x0000}$}
 ```
 
 ```math
