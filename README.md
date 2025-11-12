@@ -5,9 +5,6 @@
   <a href="https://t.me/bjuonday" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://discord.gg/KGGzPPMzt8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Who%20needs%20it%20anyways?&logo=discord&label=Discord&color=grey&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 <p align="center" width="100%">
