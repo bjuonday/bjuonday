@@ -11,10 +11,7 @@
 <p align="center" width="100%">
 <br>
     <b>Birthday</b>: May 11 2009<br>
-    <b>Coding</b>: HTML & CSS<br>
-    <b>Learning</b>: JavaScript<br>
-    <b>Languages</b>: Russian, English<br>
-    <b>Wishing to</b>: ...what?
+    <b>Languages</b>: Russian, English
 </p>
 <br clear="both">
 
@@ -23,5 +20,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" title="Little bit, but I definitely hate learning it"  />
 </div>
